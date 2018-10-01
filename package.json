@@ -1,0 +1,25 @@
+{
+  "name": "monero-minner-coinhive-nodejs",
+  "version": "1.0.0",
+  "description": "Monero Minner with coinhive JavaScript API for NodeJS",
+  "main": "minner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasindubawantha/monero-minner-coinhive-nodejs.git"
+  },
+  "keywords": [
+    "Monero",
+    "Coinhive",
+    "Minner",
+    "NodeJS"
+  ],
+  "author": "Pasindu Perera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasindubawantha/monero-minner-coinhive-nodejs/issues"
+  },
+  "homepage": "https://github.com/pasindubawantha/monero-minner-coinhive-nodejs#readme"
+}
